@@ -87,7 +87,7 @@ imagen principal para la seccion de mujeres
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url("/imagenes/portadamujeres.jpg");
+        url("/imagenes/reuniondemujeres/reunionmujeres11.jpeg");
         background-position: center bottom;
         background-repeat: no-repeat;
         background-size: cover;
@@ -428,7 +428,7 @@ imagenes seccion mujeres
 imagenes de mujeres
 */
 .general-mujeres2 {
-    background-image: url("/imagenes/retiromujeres/retiromujeres1.jpg");
+    background-image: url("/imagenes/reuniondemujeres/reunionmujeres11.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -439,7 +439,7 @@ imagenes de mujeres
 imagenes de mujeres
 */
 .general-mujeres4 {
-    background-image: url("/imagenes/retiromujeres/retiromujeres2.jpg");
+    background-image: url("/imagenes/reuniondemujeres/reunionmujeres1.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -451,7 +451,7 @@ imagenes de mujeres
 imagenes de mujeres
 */
 .general-mujeres6 {
-    background-image: url("/imagenes/retiromujeres/retiromujeres3.jpg");
+    background-image: url("/imagenes/reuniondemujeres/reunionmujeres2.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -471,7 +471,7 @@ imagenes de mujeres
 imagenes de mujeres
 */
 .general-mujeres3 {
-    background-image: url("/imagenes/retiromujeres/retiromujeres4.jpg");
+    background-image: url("/imagenes/reuniondemujeres/reunionmujeres3.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -482,7 +482,7 @@ imagenes de mujeres
 imagenes de mujeres
 */
 .general-mujeres5 {
-    background-image: url("/imagenes/retiromujeres/retiromujeres5.jpg");
+    background-image: url("/imagenes/reuniondemujeres/reunionmujeres5.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -494,7 +494,7 @@ imagenes de mujeres
 imagenes de mujeres
 */
 .general-mujeres7 {
-    background-image: url("/imagenes/retiromujeres/retiromujeres6.jpg");
+    background-image: url("/imagenes/reuniondemujeres/reunionmujeres7.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
