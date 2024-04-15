@@ -416,7 +416,7 @@ imagenes de varones
 imagenes seccion mujeres
 */
 .general-2 {
-    background-image: url("/imagenes/aniversario1.jpeg");
+    background-image: url("/imagenes/cultos/culto1.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -538,7 +538,7 @@ imagenes de jovenes
 }
 
 .general-3 {
-    background-image: url("/imagenes/aniversario2.jpeg");
+    background-image: url("/imagenes/cultos/culto2.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
