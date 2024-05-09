@@ -11,6 +11,38 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
       
 }
+
+/*
+cumpleaños de maxi
+*/
+
+.maxicumple {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+    animation: maxicumple 5s infinite;
+}
+
+@keyframes maxicumple {
+    0%{
+        transform: translateY(-50px);
+    }
+    30%{
+        transform: translateY(0) rotate(5deg);
+    }
+    50%{
+        transform: rotate(-5deg);
+    }
+    75%{
+        transform: rotate(5deg);
+    }
+    100%{
+        transform: translateY(-50px);
+    }
+    
+    
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
